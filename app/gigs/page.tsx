@@ -31,7 +31,7 @@ export default function GigsPage() {
   const [selectedCategory, setSelectedCategory] = useState("all")
   const [selectedLocation, setSelectedLocation] = useState("all")
 
-  // Mock data - in real app, this would come from Supabase
+  
   useEffect(() => {
     const searchParams = new URLSearchParams(window.location.search)
     const searchFromUrl = searchParams.get("search")

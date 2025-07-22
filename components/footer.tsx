@@ -10,9 +10,9 @@ export function Footer() {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="flex items-center justify-center w-8 h-8 bg-green-600 text-white rounded-lg font-bold">
-                H
+                L
               </div>
-              <span className="font-bold text-xl">HustleHub Zimbabwe</span>
+              <span className="font-bold text-xl">LIIT UP Hub Zimbabwe</span>
             </div>
             <p className="text-muted-foreground text-sm">
               Empowering the Zimbabwean informal economy through technology. Connect, earn, and grow your hustle.
@@ -89,11 +89,11 @@ export function Footer() {
             <ul className="space-y-2 text-sm">
               <li className="flex items-center gap-2 text-muted-foreground">
                 <MessageCircle className="h-4 w-4" />
-                <span>+263 77 123 4567</span>
+                <span>+263 718146242</span>
               </li>
               <li className="flex items-center gap-2 text-muted-foreground">
                 <Mail className="h-4 w-4" />
-                <span>hello@hustlehub.co.zw</span>
+                <span>spark@liituphub.co.zw</span>
               </li>
               <li className="flex items-center gap-2 text-muted-foreground">
                 <MapPin className="h-4 w-4" />
@@ -104,7 +104,7 @@ export function Footer() {
         </div>
 
         <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; 2024 HustleHub Zimbabwe. Made with ❤️ for Zimbabwe.</p>
+          <p>&copy; 2025 LIIT UP Hub Zimbabwe. Made with ❤️ for Zimbabwe.</p>
         </div>
       </div>
     </footer>

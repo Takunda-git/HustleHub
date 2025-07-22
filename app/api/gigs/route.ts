@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server"
 
-// In-memory storage for demo (in production, use Supabase)
+
 const gigsStorage: any[] = [
   {
     id: "1",

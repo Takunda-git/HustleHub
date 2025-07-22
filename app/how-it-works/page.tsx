@@ -45,7 +45,7 @@ export default function HowItWorksPage() {
       {/* Hero Section */}
       <section className="bg-gradient-to-br from-green-600 to-green-700 text-white py-16">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold mb-6">How HustleHub Works</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-6">How LIIT UP Hub Works</h1>
           <p className="text-xl text-green-100 max-w-2xl mx-auto">
             Simple, fast, and designed for Zimbabwe. Connect with local service providers in just a few taps.
           </p>
@@ -74,7 +74,7 @@ export default function HowItWorksPage() {
       {/* Benefits Section */}
       <section className="py-16 bg-gray-50 dark:bg-gray-900">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl font-bold text-center mb-12">Why Choose HustleHub?</h2>
+          <h2 className="text-3xl font-bold text-center mb-12">Why Choose LIIT UP Hub?</h2>
           <div className="grid md:grid-cols-3 gap-8 max-w-4xl mx-auto">
             {benefits.map((benefit, index) => (
               <Card key={index} className="text-center">
@@ -98,7 +98,7 @@ export default function HowItWorksPage() {
           <div className="max-w-3xl mx-auto space-y-6">
             <Card>
               <CardContent className="p-6">
-                <h3 className="font-semibold mb-2">Is HustleHub free to use?</h3>
+                <h3 className="font-semibold mb-2">Is LIIT UP Hub free to use?</h3>
                 <p className="text-muted-foreground">
                   Yes! Browsing gigs and posting services is completely free. We don't charge any commission fees.
                 </p>
@@ -128,7 +128,7 @@ export default function HowItWorksPage() {
               <CardContent className="p-6">
                 <h3 className="font-semibold mb-2">How do I contact service providers?</h3>
                 <p className="text-muted-foreground">
-                  Simply tap the WhatsApp button on any gig to start chatting directly with the service provider.
+                  Simply tap the WhatsApp button or call button  on any gig to start chatting directly with the service provider.
                 </p>
               </CardContent>
             </Card>

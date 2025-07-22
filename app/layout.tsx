@@ -9,13 +9,13 @@ import { Footer } from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "HustleHub Zimbabwe - Local Gig Marketplace",
+  title: "LIIT UP Hub Zimbabwe - Local Gig Marketplace",
   description:
     "Connect with local service providers in Zimbabwe. Find trusted professionals for tutoring, design, plumbing, delivery and more.",
   keywords: "Zimbabwe, gigs, freelance, services, tutoring, design, plumbing, delivery, hustle",
-  authors: [{ name: "HustleHub Zimbabwe" }],
+  authors: [{ name: "LIIT UP Hub Zimbabwe" }],
   openGraph: {
-    title: "HustleHub Zimbabwe - Local Gig Marketplace",
+    title: "LIIT UP Hub Zimbabwe - Local Gig Marketplace",
     description: "Connect with local service providers in Zimbabwe",
     type: "website",
   },

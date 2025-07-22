@@ -1,4 +1,4 @@
--- Create tables for HustleHub Zimbabwe
+-- Create tables for LIIT UP Hub Zimbabwe
 
 -- Users table (optional, for future user accounts)
 CREATE TABLE IF NOT EXISTS users (

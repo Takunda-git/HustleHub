@@ -1,4 +1,4 @@
--- Seed data for HustleHub Zimbabwe
+-- Seed data for LIIT UP Hub Zimbabwe
 
 -- Insert categories
 INSERT INTO categories (name, icon, description) VALUES

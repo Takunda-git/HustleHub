@@ -14,7 +14,7 @@ export function Navbar() {
   const pathname = usePathname()
   const { theme, setTheme } = useTheme()
 
-  // Ensure component is mounted before rendering theme toggle
+  // Ensures component is mounted before rendering theme toggle
   useEffect(() => {
     setMounted(true)
   }, [])
@@ -39,9 +39,9 @@ export function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
             <div className="flex items-center justify-center w-8 h-8 bg-green-600 text-white rounded-lg font-bold">
-              H
+              L
             </div>
-            <span className="font-bold text-xl">HustleHub</span>
+            <span className="font-bold text-xl">LIIT UP Hub</span>
             <span className="text-sm text-muted-foreground hidden sm:inline">Zimbabwe</span>
           </Link>
 
