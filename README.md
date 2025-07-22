@@ -1,11 +1,11 @@
-# HustleHub Zimbabwe 🇿🇼
+# LIIT UP Hub Zimbabwe 🇿🇼
 
-**HustleHub** is a modern, mobile-first gig and hustle marketplace designed to connect Zimbabweans with local freelance jobs and side gigs. Whether you're a student, skilled tradesperson, or entrepreneur, HustleHub helps you post and find gigs like tutoring, design, plumbing, delivery, and more — fast, free, and accessible.
+**LIIT UP Hub** is a modern, mobile-first gig and hustle marketplace designed to connect Zimbabweans with local freelance jobs and side gigs. Whether you're a student, skilled tradesperson, or entrepreneur, LIIT UP Hub helps you post and find gigs like tutoring, design, plumbing, delivery, and more — fast, free, and accessible.
 
 
 
 ## 🌍 Live App
-🔗 [Click here to start using HustleHub](https://hustle-hub-gules.vercel.app/)  
+🔗 [Click here to start using LIIT UP Hub](https://liit-up-hub-gules.vercel.app/)  
 
 
 ---
@@ -13,7 +13,7 @@
 ## 🎯 Purpose
 
 In Zimbabwe, many youth and skilled individuals struggle to find formal employment. Meanwhile, small businesses and households often can’t find reliable 
-service providers quickly. HustleHub solves this by creating a unified platform for local gig listings, helping both seekers and providers of services 
+service providers quickly. LIIT UP Hub solves this by creating a unified platform for local gig listings, helping both seekers and providers of services 
 connect in one place.
 
 ---
